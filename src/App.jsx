@@ -336,9 +336,14 @@ database management, and problem-solving
               
               {/* HARD-HITTING CTAS */}
               <div className="flex flex-wrap gap-4">
-                <a href="#resume" className="flex items-center gap-2 bg-[#ccff00] text-black px-6 py-3 font-bold uppercase tracking-widest hover:bg-white transition-colors cursor-none interactive-element">
-                  <FileText className="w-4 h-4" /> View Resume
-                </a>
+                  <a
+        href="https://drive.google.com/file/d/1ZuMFRUYL8hmNK-qrcsJ4wwR16FQdP8RT/view?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex items-center gap-2 bg-[#ccff00] text-black px-6 py-3 font-bold uppercase tracking-widest hover:bg-white transition-colors cursor-none interactive-element"
+      >
+        <FileText className="w-4 h-4" /> View Resume
+      </a>
                 <a href="https://github.com/vinothkumar-coder" target="_blank" rel="noreferrer" className="flex items-center gap-2 border border-zinc-700 text-white px-6 py-3 font-bold uppercase tracking-widest hover:border-[#ccff00] hover:text-[#ccff00] transition-colors cursor-none interactive-element bg-[#050505]/50 backdrop-blur-sm">
                   <GithubIcon className="w-4 h-4" /> GitHub Profile
                 </a>
