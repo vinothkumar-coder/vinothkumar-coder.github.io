@@ -271,10 +271,15 @@ export default function App() {
             <span>VINOD</span>
           </div>
           <div className="flex items-center gap-6">
-            <a href="/resume.pdf" target="_blank" className="hidden md:inline-flex items-center gap-2 border border-[#ccff00] text-[#ccff00] px-3 py-1 hover:bg-[#ccff00] hover:text-black transition-colors cursor-none interactive-element">
-              <FileText className="w-3 h-3" />
-              DOWNLOAD RESUME
-            </a>
+          <a
+            href="https://drive.google.com/file/d/1ZuMFRUYL8hmNK-qrcsJ4wwR16FQdP8RT/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden md:inline-flex items-center gap-2 border border-[#ccff00] text-[#ccff00] px-3 py-1 hover:bg-[#ccff00] hover:text-black transition-colors cursor-none interactive-element"
+          >
+            <FileText className="w-3 h-3" />
+            DOWNLOAD RESUME
+          </a>
             <span className="text-zinc-600 border border-zinc-800 px-2 py-1 bg-zinc-950">EST. 2026</span>
           </div>
         </div>
