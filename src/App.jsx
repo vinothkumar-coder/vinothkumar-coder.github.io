@@ -547,8 +547,7 @@ Assisted in development and testing
             </a>
 
             <div className="mt-12 flex flex-col sm:flex-row gap-4 w-full justify-center">
-               <a href="/resume.pdf" target="_blank" className="flex items-center justify-center gap-2 border-2 border-black bg-black text-[#ccff00] px-8 py-4 text-sm md:text-base font-bold uppercase tracking-widest hover:bg-transparent hover:text-black transition-colors cursor-none interactive-element">
-                  <FileText className="w-5 h-5" /> Download Resume
+              <a href="https://drive.google.com/file/d/1ZuMFRUYL8hmNK-qrcsJ4wwR16FQdP8RT/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 border-2 border-black bg-black text-[#ccff00] px-8 py-4 text-sm md:text-base font-bold uppercase tracking-widest hover:bg-transparent hover:text-black transition-colors cursor-none interactive-element">                  <FileText className="w-5 h-5" /> Download Resume
                </a>
                <a href="https://linkedin.com/in/vinoth-kumar-coder" target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 border-2 border-black text-black px-8 py-4 text-sm md:text-base font-bold uppercase tracking-widest hover:bg-black hover:text-[#ccff00] transition-colors cursor-none interactive-element">
                   <ArrowRight className="w-5 h-5" /> Connect on LinkedIn
